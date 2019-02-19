@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>test</name>
+        <order/>
+        <roles>x_285941_test.user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-19 11:05:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>40c32a14db732300f0c0874239961945</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="test" source="x_285941_test">2fb32a50db332300f0c08742399619ea</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test">2fb32a50db332300f0c08742399619ea</sys_scope>
+        <sys_update_name>sys_ui_application_40c32a14db732300f0c0874239961945</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-19 11:05:32</sys_updated_on>
+    </sys_ui_application>
+</record_update>
